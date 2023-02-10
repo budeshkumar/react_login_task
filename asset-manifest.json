@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_login_task/static/css/main.918d60dc.css",
+    "main.js": "/react_login_task/static/js/main.63f0a321.js",
+    "index.html": "/react_login_task/index.html",
+    "main.918d60dc.css.map": "/react_login_task/static/css/main.918d60dc.css.map",
+    "main.63f0a321.js.map": "/react_login_task/static/js/main.63f0a321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918d60dc.css",
+    "static/js/main.63f0a321.js"
+  ]
+}
