@@ -1,0 +1,30 @@
+.cards {
+  width: 100%;
+  height: auto;
+}
+.card {
+  margin-top: 14%;
+  padding: 5%;
+}
+input {
+  border-radius: 10px;
+  height: 30px;
+  background-color: rgb(134, 143, 145);
+}
+input:hover {
+  transform: scale(1.05, 1.05);
+}
+.btn {
+  padding: 5px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #1d1c1c;
+  background-color: rgb(173, 173, 228);
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.btn:hover {
+  box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0, 1);
+  transform: scale(1.05, 1.05);
+}
